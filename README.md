@@ -1,2 +1,2 @@
 ### Live Demo
-https://movie-recommendation-7sqmb5nw2gbblae5fsfjxe.streamlit.app/
+https://movie-recommendation-scnvb7wowyhzweac7ji5po.streamlit.app/
