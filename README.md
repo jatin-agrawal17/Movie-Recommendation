@@ -7,7 +7,7 @@
 
 ## 🚀 Live Demo
 
-👉 [Streamlit Live App](https://movie-recommendation-7sqmb5nw2gbblae5fsfjxe.streamlit.app/)
+👉 [Streamlit Live App](https://movie-recommendation-7sqmb5nw2gbblae5fsfjxe.streamlit.app/)  
 👉 [Docker Hub Image](https://hub.docker.com/repository/docker/jatinag12/movierecommender/general)
 
 ---
@@ -51,7 +51,7 @@
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/jatin-agrawal17/Real-Estate-Project.git  
+https://github.com/jatin-agrawal17/Movie-Recommendation.git 
 cd Real-Estate-Project
 ```
 #### 2. Install Dependencies
@@ -61,7 +61,7 @@ pip install -r requirements.txt
 
 #### 3. Run the App
 ```bash
-streamlit run Home.py 
+streamlit run app.py 
 ```
 
 ## 💡 Deployment Notes
@@ -70,7 +70,7 @@ Since similarity.pkl is larger than GitHub’s file limit (100 MB), it is compre
 
 ## 📊 Dataset Used
 
-[tmdb_5000_credits.csv](https://github.com/jatin-agrawal17/Movie-Recommendation/blob/main/tmdb_5000_credits.csv)
+[tmdb_5000_credits.csv](https://github.com/jatin-agrawal17/Movie-Recommendation/blob/main/tmdb_5000_credits.csv)  
 [tmdb_5000_movies.csv](https://github.com/jatin-agrawal17/Movie-Recommendation/blob/main/tmdb_5000_movies.csv)
 
 ## 📌 Limitations
