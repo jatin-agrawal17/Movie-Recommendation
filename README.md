@@ -62,6 +62,14 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py 
 ```
+#### 4. Build the Docker image
+```bash
+docker build -t movie-recommender .
+```
+#### 5. Run the Docker container
+```bash
+docker run -p 8501:8501 movie-recommender
+```
 
 ## 💡 Deployment Notes
 
