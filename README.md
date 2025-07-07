@@ -52,7 +52,6 @@
 
 ```bash
 https://github.com/jatin-agrawal17/Movie-Recommendation.git 
-cd Real-Estate-Project
 ```
 #### 2. Install Dependencies
 ```bash
